@@ -7,4 +7,4 @@ fila.enqueue = function(item) {
 };
 console.log(fila.isEmpty()); // Saída: true
 fila.enqueue(1);
-console.log(fila.is.Empty()); // Saída: false
+console.log(fila.isEmpty()); // Saída: false
