@@ -4,4 +4,4 @@ fila.enqueue = function(item) {
 };
 fila.enqueue(1);
 fila.enqueue(2);
-console.log(fila); // Saída: [1, 2]
+console.log(fila); // Saída: [1, 2].
